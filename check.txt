@@ -1,0 +1,22 @@
+ ls
+   73  cd Desktop
+   74  ls
+   75  cd Devops_085
+   76  git init
+   77  git remote add origin https://github.com/Rishika-Salanke/DevOps.git
+   78  git add tf2
+   79  git add .
+   80  git commit -m "version1"
+   81  git push origin master
+   82  git push origin master
+   83  git config --global user.name "Rishika-Salanke"
+   84  git config --global user.email "rishikasalanke@gmail.com"
+   85  git commit -m "version2"
+   86  git push origin master
+   87  git config user.email "rishikasalanke@gmail.com"
+   88  git config user.name "Rishika-Salanke"
+   89  git commit -m "version3"
+   90  git push origin master
+   91  git add check.txt
+   92  git commit -m "version3"
+   93  git push origin master
